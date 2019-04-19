@@ -7,7 +7,8 @@
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
 # 1回目(4/19)
-## 講義動画
+## 講義ノート
+- https://docs.google.com/document/d/1WEDoUQOGek-jf9WwRDZmWhnGAj3DT1KxGFj6GRGQpkU/
 
 ## 予定
 - ガイダンス - [シラバス](syllabus.md)の確認
