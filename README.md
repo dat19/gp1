@@ -30,6 +30,17 @@
 ## 演習
 - 新規にプロジェクト`ensyu0426`を作成して、以下について実装せよ
   - Gitでの管理を開始して、GitHubにPublishする
+    - GitHub Desktop をダブルクリックして起動
+    - Fileメニューから、Optionsをクリック
+    - GitHub.comがサインイン済みの時は、Sign outをクリックする
+    - Sign in ボタンをクリックして、GitHubアカウントでサインイン
+    - FileメニューからNew Repository(リポジトリー)
+    - Local pathのChooseボタンをクリック
+    - ドキュメント > 名前のフォルダー > ensyu0426を開いて、フォルダーの選択をクリック
+    - Local pathの最後のフォルダー名を選択して、切り取って、Name欄に貼り付け
+    - Initialize this repository with a README にチェック
+    - Git ignore欄をクリックして、`vi`と入力して、VisualStudioを選択
+    - Create repositoryボタンをクリック
   - ボタンを3つ作成する
   - 作成した3つのボタンそれぞれに、押すと「文字が変わる」「場所が移動する」「消える」以外の変化をさせるプログラムを作成せよ
   - プロジェクトをGitHubに登録する
