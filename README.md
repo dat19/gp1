@@ -16,9 +16,10 @@
 ## 前回の復習
 - 調べ方：実演
 - fukusyu0510の名前でプロジェクト作成
-- GitHubに登録して、Publish
+- [GitHubに登録](https://github.com/dat19/gp1/blob/master/vs-github-entry.md)して、Publish
 - ボタンを3つ作って、それぞれ違う動きをさせる
 - 完成したらPush
+- **パーフェクトやボタン2つの人は、担当列の人のサポートをしてください**
 
 ## 講義ノート
 - [書く教科書 5から](https://github.com/dat19/csharp-manual)
