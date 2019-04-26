@@ -10,6 +10,17 @@
 ## 講義ノート
 - [書く教科書](https://github.com/dat19/csharp-manual)
 
+## プロパティを調べる
+- BackColor
+- Enabled
+- Font
+- ForeColor
+- Location
+- Size
+- Text
+- TextAlign
+- Visible
+
 ## 予定
 - Visual Studioの基本操作
 - プロパティの確認
