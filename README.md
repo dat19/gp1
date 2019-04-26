@@ -6,6 +6,20 @@
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
+# 3回目(5/10)
+## 前回の復習
+- ボタンを3つ作って、それぞれ違う動きをさせる
+  - 検索の仕方
+  - GitHubへの登録方法
+  - 不要なリポジトリーの削除
+
+## 講義ノート
+- [書く教科書 5から](https://github.com/dat19/csharp-manual)
+
+## その他
+- 時間が余ったらタイピング練習。前回と同様に、以下にスコアを報告せよ
+  - [報告用のスプレッドシート](https://docs.google.com/spreadsheets/d/13IyWguSAEqxOa6fkID_B7BcLyzoe_1Lc3lRZKlJbXLk/edit?usp=sharing)
+
 # 2回目(4/26)
 ## 講義ノート
 - [書く教科書](https://github.com/dat19/csharp-manual)
@@ -48,9 +62,6 @@
   - 作成した3つのボタンそれぞれに、押すと「文字が変わる」「場所が移動する」「消える」以外の変化をさせるプログラムを作成せよ
   - プロジェクトをGitHubに登録する
   - コミット＆プッシュ(これで提出になる)
-- 時間が余ったらタイピング練習。前回と同様に、以下にスコアを報告せよ
-  - [報告用のスプレッドシート](https://docs.google.com/spreadsheets/d/13IyWguSAEqxOa6fkID_B7BcLyzoe_1Lc3lRZKlJbXLk/edit?usp=sharing)
-
 
 # 1回目(4/19)
 ## 講義ノート
