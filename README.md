@@ -41,6 +41,9 @@
     - Initialize this repository with a README にチェック
     - Git ignore欄をクリックして、`vi`と入力して、VisualStudioを選択
     - Create repositoryボタンをクリック
+    - 右上のPublish repositoryボタンをクリック
+    - Keep this code private のチェックを外す
+    - Publish repositoryボタンをクリック
   - ボタンを3つ作成する
   - 作成した3つのボタンそれぞれに、押すと「文字が変わる」「場所が移動する」「消える」以外の変化をさせるプログラムを作成せよ
   - プロジェクトをGitHubに登録する
