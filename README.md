@@ -5,6 +5,7 @@
 
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
+- [Photoshopのレイヤーを別ファイルに書き出す](https://helpx.adobe.com/jp/photoshop/kb/5775.html)
 
 # 2回目(4/26)
 ## 講義ノート
