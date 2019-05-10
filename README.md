@@ -8,7 +8,7 @@
 
 # 3回目(5/10)
 ## 水曜日のensyu0508リポジトリーの共有リンクを教えてください
-- 書き込み先
+- [書き込み先](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)
 
 ## 前回の課題の総評
 - パーフェクト：二人
