@@ -28,6 +28,7 @@
 
 ## 講義ノート
 - [書く教科書 5から](https://github.com/dat19/csharp-manual)、進められれば6まで
+- [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
 ## その他
 - 時間が余ったらタイピング練習。前回と同様に、以下にスコアを報告せよ
