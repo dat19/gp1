@@ -26,9 +26,7 @@
 - 左の方にある*Collaborators & teams*をクリック
 - パスワードを入力
 - *Collaborators*欄のテキストボックスに`tanakaedu`と入力して、表示される`tanakaedu Yu Tanaka*を選択したら、*Add collaborator*ボタンをクリック
-- *Copy invite link*ボタンをクリックして、URLの隣のボタン()をクリックしてコピー
+- *Copy invite link*ボタンをクリックして、URLの隣のボタン(![コピーボタン](images/copy-button.png))をクリックしてコピー
 - 指示されたGoogleシートなどに、コピーしたURLを貼り付ける(Ctrl+Vキー)
 
 以上で設定完了です。
-
-
