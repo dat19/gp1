@@ -1,5 +1,8 @@
 # UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順
 
+- Unityでプロジェクトを作成しておく
+- [Ctrl]+[S]キーでシーンを保存。最初の保存の時は、任意の名前をつける
+- [File]メニューから[Save Project]を選択して、プロジェクトを保存
 - **GitHub Desktop** を起動する
 - *File*メニューから、*Options*をクリック
 - GitHub.comがサインイン済みの時は、*Sign out*をクリックする
