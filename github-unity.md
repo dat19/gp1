@@ -12,7 +12,7 @@
 - *ドキュメント* > *名前のフォルダー* から、登録したいUnityのプロジェクトフォルダーを開いて、フォルダーの選択をクリック
 - *Local path*の最後のフォルダー名を選択して、切り取って、*Name*欄に貼り付け
 - *Initialize this repository with a README* にチェック
-- *Git ignore*欄をクリックして、`unity`と入力して選択
+- *Git ignore*欄をクリックして、`un`と入力すると*Unity*が選択されるのでクリックなどして選択
 - *Create repository*ボタンをクリック
 - 右上の*Publish repository*ボタンをクリック
 - *Keep this code private* はチェックしたままにする
