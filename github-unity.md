@@ -27,9 +27,9 @@
 - 作成したリポジトリーを開く
 - 右の方にある*Settings*をクリック
 - 左の方にある*Collaborators*をクリック
-- パスワードを入力
+- 要求されたらパスワードを入力(要求がなければ次へ)
 - *Collaborators*欄のテキストボックスに`tanakaedu`と入力して、表示される`tanakaedu Yu Tanaka*を選択したら、*Add collaborator*ボタンをクリック
-- *Copy invite link*ボタンをクリックして、URLの隣のボタン(![コピーボタン](images/copy-button.png))をクリックしてコピー
+- 追加した*Yu Tanaka*の横に表示される*Copy invite link*ボタンをクリックして、URLの隣のボタン(![コピーボタン](images/copy-button.png))をクリックしてコピー
 - 指示されたGoogleシートなどに、コピーしたURLを貼り付ける(Ctrl+Vキー)
 
 以上で設定完了です。
