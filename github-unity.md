@@ -33,3 +33,12 @@
 - 指示されたGoogleシートなどに、コピーしたURLを貼り付ける(Ctrl+Vキー)
 
 以上で設定完了です。
+
+# 変更したものを反映させる手順
+- Unityの*File*メニューをクリックして、*Save Scenes*を選択してシーンを保存する
+- *File*メニューをクリックして、*Save Proejct*を選択してプロジェクトを保存する
+- GitHub Desktopに切り替える
+- *Changes*タブをクリック
+- *Summary*欄に変更した内容を書く(ボタンの追加、完成など)
+- *Commit to master*ボタンをクリック
+- 右上の*Push origin*ボタンをクリック
