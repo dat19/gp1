@@ -26,7 +26,7 @@
 - サインインする
 - 作成したリポジトリーを開く
 - 右の方にある*Settings*をクリック
-- 左の方にある*Collaborators & teams*をクリック
+- 左の方にある*Collaborators*をクリック
 - パスワードを入力
 - *Collaborators*欄のテキストボックスに`tanakaedu`と入力して、表示される`tanakaedu Yu Tanaka*を選択したら、*Add collaborator*ボタンをクリック
 - *Copy invite link*ボタンをクリックして、URLの隣のボタン(![コピーボタン](images/copy-button.png))をクリックしてコピー
