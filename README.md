@@ -7,6 +7,12 @@
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
 # 4回目(5/17)
+## Google Chromeの拡張機能Click&Cleanを削除する
+- Chromeアイコンを右クリックして、Google Chromeを選択して、通常のChromeを起動
+- アドレスバーに chrome://extensions/ を入力
+- Click&Cleanの削除ボタンをクリック(なければすでに削除済みなので何もしなくてOK)
+- Chromeを閉じる
+
 ## 前回の復習
 - fukusyu0517の名前でプロジェクト作成
 - [GitHubに登録](https://github.com/dat19/gp1/blob/master/vs-github-entry.md)して、Publish
