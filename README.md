@@ -6,6 +6,36 @@
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
+# 4回目(5/17)
+## 前回の復習
+- fukusyu0517の名前でプロジェクト作成
+- [GitHubに登録](https://github.com/dat19/gp1/blob/master/vs-github-entry.md)して、Publish
+- 以下を設定
+  - ラベル(Label)を1つ
+  - ボタン(Button)を4つ作って十字に配置
+  - テキストボックス(TextBox)を2つ作って、両方とも`Text`プロパティーに`0`を設定
+  - タイマー(Timer)を設定して、動くようにする
+  - timer1をダブルクリックして、以下のプログラムを追加
+
+```cs
+			label1.Left += int.Parse(textBox1.Text);
+			label1.Top += int.Parse(textBox2.Text);
+```
+
+- ボタンを押すと、ラベルが動くようにする
+- 完成したらPush
+
+## 今回の予定
+- [変数](https://github.com/dat19/csharp-manual/blob/master/07.md)
+  - TextBoxを不要にする
+- 同様のことをUnityでやってみる
+  - ベクトルについて
+
+## その他
+- 時間が余ったらタイピング練習。以下にスコアを報告せよ
+  - [報告用のスプレッドシート](https://docs.google.com/spreadsheets/d/13IyWguSAEqxOa6fkID_B7BcLyzoe_1Lc3lRZKlJbXLk/edit?usp=sharing)
+
+
 # 3回目(5/10)
 ## 水曜日のensyu0508リポジトリーの共有リンクを教えてください
 - [書き込み先](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)
@@ -29,10 +59,6 @@
 ## 講義ノート
 - [書く教科書 5から](https://github.com/dat19/csharp-manual)、進められれば6まで
 - [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
-
-## その他
-- 時間が余ったらタイピング練習。前回と同様に、以下にスコアを報告せよ
-  - [報告用のスプレッドシート](https://docs.google.com/spreadsheets/d/13IyWguSAEqxOa6fkID_B7BcLyzoe_1Lc3lRZKlJbXLk/edit?usp=sharing)
 
 # 2回目(4/26)
 ## 講義ノート
