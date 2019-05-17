@@ -61,7 +61,7 @@ int vy = 0;
 - [変数](https://github.com/dat19/csharp-manual/blob/master/07.md)
   - TextBoxを不要にする
 - 同様のことをUnityでやってみる
-  - ベクトルについて
+  - [ベクトルについて](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/)
 
 ## その他
 - 時間が余ったらタイピング練習。以下にスコアを報告せよ
