@@ -6,6 +6,32 @@
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
+# 5回目(5/24)
+## 前回の復習
+- fukusyu0524の名前でプロジェクト作成
+- [GitHubに登録](https://github.com/dat19/gp1/blob/master/vs-github-entry.md)して、Publish
+- 以下を設定
+  - ラベル(Label)を1つ
+  - ボタン(Button)を4つ作って十字に配置
+  - タイマー(Timer)を設定して、動くようにする
+  - classの宣言の直下に、以下を追加
+
+```cs
+int vx = 0;
+int vy = 0;
+```
+
+  - timer1をダブルクリックして、以下のプログラムを追加
+
+```cs
+			label1.Left += vx;
+			label1.Top += vy;
+```
+
+- ボタンを押すと、ラベルが動くようにする
+- 完成したらPush
+
+
 # 4回目(5/17)
 ## Google Chromeの拡張機能Click&Cleanを削除する
 - Chromeアイコンを右クリックして、Google Chromeを選択して、通常のChromeを起動
