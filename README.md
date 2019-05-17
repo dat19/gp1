@@ -63,7 +63,7 @@
 - **パーフェクトやボタン2つの人は、担当列の人のサポートをしてください**
 
 ## 講義ノート
-- [書く教科書 5から](https://github.com/dat19/csharp-manual)、進められれば6まで
+- [書く教科書 5から](https://github.com/dat19/csharp-manual/blob/master/05.md)、進められれば6まで
 - [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
 # 2回目(4/26)
