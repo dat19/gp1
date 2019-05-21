@@ -7,6 +7,11 @@
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
 # 5回目(5/24)
+## 前回の提出結果(出席17名)
+- 提出(11名)
+- 1カ所間違い(2名)
+- パーフェクト(0名)
+
 ## 前回の復習
 - fukusyu0524の名前でプロジェクト作成
 - [GitHubに登録](https://github.com/dat19/gp1/blob/master/vs-github-entry.md)して、Publish
