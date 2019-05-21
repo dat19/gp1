@@ -37,6 +37,10 @@ int vy = 0;
 - ボタンを押すと、ラベルが動くようにする
 - 完成したらPush
 
+## 予定
+- [分岐(1) 跳ね返り処理](https://github.com/dat19/csharp-manual/blob/master/08.md)
+- [マウス操作](https://github.com/dat19/csharp-manual/blob/master/10.md)
+- [ベクトルについて 続き](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/)
 
 # 4回目(5/17)
 ## Google Chromeの拡張機能Click&Cleanを削除する
@@ -63,7 +67,7 @@ int vy = 0;
 - ボタンを押すと、ラベルが動くようにする
 - 完成したらPush
 
-## 今回の予定
+## 今回の内容
 - [変数](https://github.com/dat19/csharp-manual/blob/master/07.md)
   - TextBoxを不要にする
 - 同様のことをUnityでやってみる
