@@ -35,6 +35,11 @@ int vy = -10;
 - ラベルが、ウィンドウの端で跳ね返るようにする
 - 完成したらPush
 
+## 予定
+- [分岐 続きから](https://github.com/dat19/csharp-manual/blob/master/08.md)
+  - [おまけ switch文](https://github.com/dat19/csharp-manual/blob/master/09.md)
+- [マウス入力](https://github.com/dat19/csharp-manual/blob/master/10.md)
+- [分岐2](https://github.com/dat19/csharp-manual/blob/master/11.md)
 
 
 # 5回目(5/24)
