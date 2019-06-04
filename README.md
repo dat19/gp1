@@ -11,7 +11,11 @@
 ## 前回の課題
 - 講義の開始までに、前回のfukusyu0531の最新版を、GitHubにCommitして、Pushしてください
 
-## 前回の復習
+## 前回の復讐の提出結果(出席10名)
+- 提出(名)
+- パーフェクト(名)
+
+## 前回の振り返りと復習
 - fukusyu0607の名前でプロジェクト作成
 - [GitHubに登録](https://github.com/dat19/gp1/blob/master/vs-github-entry.md)して、Publish
   - **2つ目のプロジェクトフォルダーを選択すると提出失敗になるので注意！！**
