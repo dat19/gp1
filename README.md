@@ -42,7 +42,9 @@ int vy = -10;
 
 ## 予定
 - ラベルとマウスカーソルが重なる条件の作り方
-- 続き
+- [乱数](https://github.com/dat19/csharp-manual/blob/master/12.md)
+- [配列](https://github.com/dat19/csharp-manual/blob/master/13.md)
+- [繰り返し](https://github.com/dat19/csharp-manual/blob/master/14.md)
 
 # 6回目(5/31)
 ## 前回の提出結果(出席15名)
