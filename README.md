@@ -40,10 +40,11 @@ int vy = -10;
 - ラベルにマウスカーソルが重なったら、タイマーを停止(`timer1.Enabled = False;`)にする
 - 完成したらPush
 
-## 予定
+## 内容
 - ラベルとマウスカーソルが重なる条件の作り方
 - [乱数](https://github.com/dat19/csharp-manual/blob/master/12.md)
 - [配列](https://github.com/dat19/csharp-manual/blob/master/13.md)
+  - [開始プロジェクト](https://github.com/tanakaedu/fukusyu0607)
 - [繰り返し](https://github.com/dat19/csharp-manual/blob/master/14.md)
 
 # 6回目(5/31)
