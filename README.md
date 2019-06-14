@@ -40,14 +40,9 @@ int vy = -10;
 - [コントロールをプログラムで追加する](https://github.com/dat19/csharp-manual/blob/master/15.md)
   - 新規にensyu0614を作って、ラベルをスクリプトから作成
 - たくさん動かす仕上げ
-  - [こちら](https://github.com/tanakaedu/fukusyu0607/tree/09265c180fbcd3db738bbdf06c53b16f82a2ca86)を開いて、*Clone or download*をクリックして、*Download ZIP*をクリックしてダウンロード
-  - ダウンロードしたファイルをクリックする
-  - 開いたウィンドウの左のドキュメントを右クリックして、新しいウィンドウで開くをクリック
-  - 先に開いていたエクスプローラーから`fukusyu0607-09265c180fbcd3db738bbdf06c53b16f82a2ca86`フォルダーをドラッグして、新しく開いたウィンドウの右の自分の名前フォルダーにドロップ
-  - ドロップしたフォルダーをダブルクリックして開く
-  - `fukusyu0607.sln`をダブルクリックして、Visual Studioで開く
 - すべてをfor文に対応させる
 - たくさんオブジェクトを出してみる
+  - [作業手順](https://docs.google.com/document/d/1tLiMFh_ptiwREACelAh5jdesD7nUNs88EbSazum6q68/)
 - 状態遷移 / 総合復習：沢山のラベルを表示して全て取るゲームの開発
 
 
