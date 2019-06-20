@@ -14,12 +14,8 @@
 
 ## 予定
 - リレーコーディング
-
-- 状態遷移　続き
-  - なぜクリアしてしまうか？から
-  - クリアの作成
-  - ゲームオーバーの作成
-  - 種類を増やす
+  - [こちら](https://github.com/dat19/gp1/raw/master/yoketoru-cs-start.zip)をダウンロードして、ドキュメントの自分のフォルダーにドラッグ＆ドロップして展開して開く
+  - [リレーコーディング](https://docs.google.com/document/d/1EPjZmUB977afCmrh1Ml-QCR2mTnzcgjnYOGWXDH_V9c/edit?usp=sharing)
 - Unity版 習作ゲーム「よけとる」の開発(1) プロジェクトの作成
 
 
