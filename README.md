@@ -6,19 +6,30 @@
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
+# 10回目(6/28)
+## 前回の続きから
+- 前回休んだ人は、[これ](https://github.com/dat19/gp1/raw/master/yoketoru-cs-10start.zip)をダウンロードして、展開して、Visual Studio 2013で開く
+- リレーコーディング続き
+  - [こちら](https://github.com/dat19/gp1/raw/master/yoketoru-cs-start.zip)をダウンロードして、ドキュメントの自分のフォルダーにドラッグ＆ドロップして展開して開く
+  - [手順](https://docs.google.com/document/d/1EPjZmUB977afCmrh1Ml-QCR2mTnzcgjnYOGWXDH_V9c/edit?usp=sharing)
+  - [共有ソースコード](https://docs.google.com/document/d/1agbVz0qIq_m52e3DpY7_04CgnjELkNlhkU6lPTSMVe0/edit?usp=sharing)
+  - [順番](https://docs.google.com/spreadsheets/d/1tYqiUfsssgp7oIWSqJC9sXmB_HUqxlZE8DrQED6-QD0/)
+
+## Unity版よけとるの開発
+- Unity版 習作ゲーム「よけとる」の開発(1) プロジェクトの作成 / 状態遷移 / シーンの作成
+
 # 9回目(6/21)
 ## 前回の復習の提出結果(出席15名)
 - 提出(13名)
 - 跳ね返りまで出来ている(8名)
 - 時間内に停止までできている(1名)
 
-## 予定
+## 内容
 - リレーコーディング
   - [こちら](https://github.com/dat19/gp1/raw/master/yoketoru-cs-start.zip)をダウンロードして、ドキュメントの自分のフォルダーにドラッグ＆ドロップして展開して開く
   - [手順](https://docs.google.com/document/d/1EPjZmUB977afCmrh1Ml-QCR2mTnzcgjnYOGWXDH_V9c/edit?usp=sharing)
   - [共有ソースコード](https://docs.google.com/document/d/1agbVz0qIq_m52e3DpY7_04CgnjELkNlhkU6lPTSMVe0/edit?usp=sharing)
   - [抽選](https://docs.google.com/spreadsheets/d/1tYqiUfsssgp7oIWSqJC9sXmB_HUqxlZE8DrQED6-QD0/)
-- Unity版 習作ゲーム「よけとる」の開発(1) プロジェクトの作成
 
 
 # 8回目(6/14)
