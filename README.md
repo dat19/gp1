@@ -15,8 +15,11 @@
   - [共有ソースコード](https://docs.google.com/document/d/1agbVz0qIq_m52e3DpY7_04CgnjELkNlhkU6lPTSMVe0/edit?usp=sharing)
   - [順番](https://docs.google.com/spreadsheets/d/1tYqiUfsssgp7oIWSqJC9sXmB_HUqxlZE8DrQED6-QD0/)
 
-## Unity版よけとるの開発
-- Unity版 習作ゲーム「よけとる」の開発(1) プロジェクトの作成 / 状態遷移 / シーンの作成
+## Unity版 習作ゲーム「よけとる」の開発(1)
+- プロジェクトの作成
+- WebGL用設定と初回ビルド
+- GitHubにパブリッシュ
+- 状態遷移 / シーンの作成
 
 # 9回目(6/21)
 ## 前回の復習の提出結果(出席15名)
