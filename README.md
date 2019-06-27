@@ -12,7 +12,7 @@
 - リレーコーディング続き
   - [こちら](https://github.com/dat19/gp1/raw/master/yoketoru-cs-start.zip)をダウンロードして、ドキュメントの自分のフォルダーにドラッグ＆ドロップして展開して開く
   - [手順](https://docs.google.com/document/d/1EPjZmUB977afCmrh1Ml-QCR2mTnzcgjnYOGWXDH_V9c/edit?usp=sharing)
-  - [共有ソースコード](https://docs.google.com/document/d/1agbVz0qIq_m52e3DpY7_04CgnjELkNlhkU6lPTSMVe0/edit?usp=sharing)
+  - [共有ソースコード](https://codeshare.io/aY90pn)
   - [順番](https://docs.google.com/spreadsheets/d/1tYqiUfsssgp7oIWSqJC9sXmB_HUqxlZE8DrQED6-QD0/)
 
 ## Unity版 習作ゲーム「よけとる」の開発(1)
