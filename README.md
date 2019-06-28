@@ -10,7 +10,7 @@
 ## 前回の続きから
 - 前回休んだ人は、[これ](https://github.com/dat19/gp1/raw/master/yoketoru-cs-10start.zip)をダウンロードして、展開して、Visual Studio 2013で開く
 - リレーコーディング続き
-  - [こちら](https://github.com/dat19/gp1/raw/master/yoketoru-cs-start.zip)をダウンロードして、ドキュメントの自分のフォルダーにドラッグ＆ドロップして展開して開く
+  - 前回のプロジェクト(yoketoru-cs)をVisual Studio 2013で開く
   - [手順](https://docs.google.com/document/d/1EPjZmUB977afCmrh1Ml-QCR2mTnzcgjnYOGWXDH_V9c/edit?usp=sharing)
   - [共有ソースコード](https://codeshare.io/aY90pn)
   - [順番](https://docs.google.com/spreadsheets/d/1tYqiUfsssgp7oIWSqJC9sXmB_HUqxlZE8DrQED6-QD0/)
