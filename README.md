@@ -52,6 +52,7 @@
   - [順番](https://docs.google.com/spreadsheets/d/1tYqiUfsssgp7oIWSqJC9sXmB_HUqxlZE8DrQED6-QD0/)
 
 ## Unity版 習作ゲーム「よけとる」の開発(1)
+- [作業手順](https://docs.google.com/document/d/1Ibw6kmMfjuUFrPauVILCL-xIN7H96D8e3DGoxZM__Po/)
 - プロジェクトの作成
 - WebGL用設定と初回ビルド
 - GitHubにパブリッシュ
