@@ -6,6 +6,41 @@
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
+
+# 1週間ゲームジャムに向けてのリンク集
+- https://unityroom.com/unity1weeks
+  - ページの下の方に大変助かる記事へのリンクあり
+- [寸前みやこ. 気軽に参加できるゲーム制作のコンテスト unity1week](https://szmiyako.blogspot.com/2019/06/unity1week.html)
+
+## 企画
+- [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
+- [DeNA. DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/archives/726)
+- [かえるD. なぜ作ったゲームが面白くならないのか？基礎にして奥義「フロー理論」](https://note.mu/kaerusanu/n/nc80f9523bb8e)
+- [［GDC 2019］ゲームメカニクスだけに依存しない，面白いゲームの作り方。その技術を支える「6つの動詞」とは](https://www.4gamer.net/games/999/G999905/20190321021/)
+- https://unityroom.com/games/metrotree
+  - プリミティブなものをセンスでまとめた例
+- https://unityroom.com/games/tunagirl
+  - シンプルでも評価を得られる例
+
+## 画面設計
+- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [個人開発のUI設計術](https://crieit.net/posts/UI)
+- [カラースキームジェネレーター](https://coolors.co/)
+- [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
+- [coliss. 2019年用、日本語のフリーフォントまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
+- [フォントの試し書き](https://tameshigaki.jp/)
+- https://www.fontsquirrel.com/
+  - アプリ埋め込みが可能なものから検索などが可能な英語フォント紹介サイト
+
+## オーディオ
+- [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
+  - [効果音作成ツールBfxr](http://www.bfxr.net/)
+- [Audacity](https://forest.watch.impress.co.jp/library/software/audacity/)
+  - オーディオファイルを編集するフリーウェア。編集 -> クリップの境界で分割すると、プチノイズを発生させずにトリミングができるので便利
+- [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
+- [AudioCutter. MP3などをトリミングできるサイト](https://mp3cut.net/ja/)
+
+
 # 10回目(6/28)
 ## 前回の続きから
 - 前回休んだ人は、[これ](https://github.com/dat19/gp1/raw/master/yoketoru-cs-10start.zip)をダウンロードして、展開して、Visual Studio 2013で開く
