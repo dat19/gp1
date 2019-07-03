@@ -41,6 +41,16 @@
 - [Audacity](https://forest.watch.impress.co.jp/library/software/audacity/)
   - オーディオファイルを編集するフリーウェア。編集 -> クリップの境界で分割すると、プチノイズを発生させずにトリミングができるので便利
 
+# 11回目(7/5)
+## 予定
+- スコア管理
+- ネットランキング対応
+
+## 演習
+- unityroomに登録
+- WebGLビルドして、仮アップロード
+- 限定公開して、アップロードしたURLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)に報告
+
 
 # 10回目(6/28)
 ## 前回の続きから
