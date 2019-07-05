@@ -41,9 +41,18 @@
 - [Audacity](https://forest.watch.impress.co.jp/library/software/audacity/)
   - オーディオファイルを編集するフリーウェア。編集 -> クリップの境界で分割すると、プチノイズを発生させずにトリミングができるので便利
 
-# 11回目(7/5)
+# 12回目(7/12)
 ## 話題
 - [Unity道場 ７月～ゲーム制作に使う数学を学習しよう～](https://meetup.unity3d.jp/jp/events/1122)
+
+## 予定
+- ネットランキング対応
+  - ニフクラ版
+- ランキングが消えたことを確認
+- WebGLビルドをして、unityroomで公開設定
+
+
+# 11回目(7/5)
 
 ## 復習
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/11Pi1cHxEv9W4LgmaHWaMvzOstUx7Q7EToXM-wzKrGXQ/)
@@ -54,12 +63,9 @@
   - オブジェクトの消し方
   - オブジェクトの生成
 
-## 予定
+## 内容
 - [今回の手順](https://docs.google.com/document/d/1i08IrTyWiTv9B9zjFv2iUQBv-MXb8BYUzv_QVSukdPo/)
 - スコア管理
-- ネットランキング対応
-  - ニフクラ版
-- ランキングが消えたことを確認
 - 演習 - unityroomに登録-
 - 各自作業
 
