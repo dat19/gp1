@@ -45,10 +45,23 @@
 ## 話題
 - [Unity道場 ７月～ゲーム制作に使う数学を学習しよう～](https://meetup.unity3d.jp/jp/events/1122)
 
+## 復習
+- [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/11Pi1cHxEv9W4LgmaHWaMvzOstUx7Q7EToXM-wzKrGXQ/)
+  - プレイヤーのキー操作
+  - キャラクターの問題の起きにくい作り方
+  - 動かし方
+  - 当たり判定の考え方
+  - オブジェクトの消し方
+  - オブジェクトの生成
+
 ## 予定
+- [今回の手順](https://docs.google.com/document/d/1i08IrTyWiTv9B9zjFv2iUQBv-MXb8BYUzv_QVSukdPo/)
 - スコア管理
 - ネットランキング対応
   - ニフクラ版
+- ランキングが消えたことを確認
+- 演習 - unityroomに登録-
+- 各自作業
 
 ## 演習
 - unityroomに登録
