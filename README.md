@@ -55,6 +55,7 @@
   - Twitterでログインして、コメントと評価の投稿をしてあげてください
   - https://unityroom.com/games/dat19-gp129
   - https://unityroom.com/games/cactus_collect
+  - https://unityroom.com/games/oto1_yatsuhashi
   - 参考：2年生作品 https://unityroom.com/games/ookami_youjyo_animal_get_together
 
 ## 作業
