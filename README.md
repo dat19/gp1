@@ -46,11 +46,18 @@
 - [Unity道場 ７月～ゲーム制作に使う数学を学習しよう～](https://meetup.unity3d.jp/jp/events/1122)
 
 ## 予定
+- Unity Hubのアップデート
 - ネットランキング対応
   - ニフクラ版
-- ランキングが消えたことを確認
+- ランキング画面が消えたことを確認
 - WebGLビルドをして、unityroomで公開設定
-- 公開できた人がいたら、試遊会
+- 公開作品の試遊会
+  - Twitterでログインして、コメントと評価の投稿をしてあげてください
+  - https://unityroom.com/games/dat19-gp129
+  - https://unityroom.com/games/cactus_collect
+  - 参考：2年生作品 https://unityroom.com/games/ookami_youjyo_animal_get_together
+
+## 作業
 
 
 # 11回目(7/5)
