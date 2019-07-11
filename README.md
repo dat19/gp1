@@ -44,6 +44,9 @@
 # 12回目(7/12)
 ## 話題
 - [Unity道場 ７月～ゲーム制作に使う数学を学習しよう～](https://meetup.unity3d.jp/jp/events/1122)
+- [Unity アセット真夏のアドベントカレンダー 2019 Summer!](https://twitter.com/AssetStore_JP/status/1148730727099297793)
+- [渋谷ゆに茶会 scene07](https://t.co/TCWNlN5jDz)
+
 
 ## 予定
 - Unity Hubのアップデート
