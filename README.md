@@ -50,8 +50,7 @@
 
 ## 予定
 - Unity Hubのアップデート
-- ネットランキング対応
-  - ニフクラ版
+- [ネットランキング対応](https://blog.naichilab.com/entry/webgl-simple-ranking)
 - ランキング画面が消えたことを確認
 - WebGLビルドをして、unityroomで公開設定
 - 公開作品の試遊会
