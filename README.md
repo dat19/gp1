@@ -50,9 +50,9 @@
 
 ## 予定
 - Unity Hubのアップデート
-- [作業手順](https://docs.google.com/document/d/1CZtUBApNSzVZaE0xcJ_niQt6kJ31NcXQfcYmPjUhaxo/edit?usp=sharing)
 - [ネットランキング対応](https://blog.naichilab.com/entry/webgl-simple-ranking)
 - ランキング画面が消えたことを確認
+  - [作業手順](https://docs.google.com/document/d/1CZtUBApNSzVZaE0xcJ_niQt6kJ31NcXQfcYmPjUhaxo/edit?usp=sharing)
 - WebGLビルドをして、unityroomで公開設定
 - 公開作品の試遊会
   - Twitterでログインして、コメントと評価の投稿をしてあげてください
