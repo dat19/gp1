@@ -45,11 +45,28 @@
 - [「声優志望者は専門学校にも養成所にも行くな！」音響監督・長崎行男と福原慶匡Pが明かす、声優業界のいま](https://mobile.twitter.com/AnimeAnime_jp/status/1151092153533292544)
 - [松本保典. ツイート](https://mobile.twitter.com/ryouta3527/status/1150781112693579776)
   - どちらも、「声優」を「ゲームプログラマー」に置き換えて読んでみる
+- [結城浩. ツイート](https://twitter.com/hyuki/status/1151844716259901440)
 
 ## 予定
 - 夏休み課題の説明
 - コード解説
-  - http://baba-s.hatenablog.com/entry/2018/01/16/212800#%E3%83%91%E3%83%89%E3%83%AB%E3%81%AE%E6%93%8D%E4%BD%9C
+  - http://baba-s.hatenablog.com/entry/2018/01/16/212800#%E3%83%91%E3%83%89%E3%83%AB%E3%81%AE%E6%93%8D%E4%BD%9C より
+
+```cs
+using UnityEngine;
+
+public class BallController : MonoBehaviour
+{
+    public float speed = 10;
+
+    private void Start()
+    {
+        var force = ( transform.forward + transform.right ) * speed;
+        GetComponent<Rigidbody>().AddForce( force, ForceMode.VelocityChange );
+    }
+}
+```
+
 - Unityでのゲーム開発振り返り
 
 ## 夏休みの課題
