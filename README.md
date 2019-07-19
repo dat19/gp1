@@ -72,6 +72,12 @@ public class BallController : MonoBehaviour
   - https://docs.google.com/document/d/1i08IrTyWiTv9B9zjFv2iUQBv-MXb8BYUzv_QVSukdPo/edit#heading=h.b30mdk84mkr4
 
 ## 夏休みの課題
+### 作品チュートリアル例
+- [初心者向け](https://www.udemy.com/unity-chan-tutorial-01/)
+- [倉庫番. データを使うのでプログラミングのトレーニングにおすすめ](http://baba-s.hatenablog.com/entry/2018/03/30/085000)
+- [Udemyの無料で学習できる素材](https://www.udemy.com/topic/unity/?instructional_level=beginner&instructional_level=intermediate&p=1&price=price-free&sort=popularity&subcategory=Game+Development&subcategory=Game+Design)
+- [初心者向けが多い(少々コードが微妙なところがある](https://hiyotama.hatenablog.com/)
+
 ### 前期の復習
 - 全ての講義について、何をやったのかを振り返り、わからなかった部分は調べたり、繰り返し取り組んで理解を深める
 
