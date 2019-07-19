@@ -68,6 +68,8 @@ public class BallController : MonoBehaviour
 ```
 
 - Unityでのゲーム開発振り返り
+  - https://docs.google.com/document/d/11Pi1cHxEv9W4LgmaHWaMvzOstUx7Q7EToXM-wzKrGXQ/edit
+  - https://docs.google.com/document/d/1i08IrTyWiTv9B9zjFv2iUQBv-MXb8BYUzv_QVSukdPo/edit#heading=h.b30mdk84mkr4
 
 ## 夏休みの課題
 ### 前期の復習
