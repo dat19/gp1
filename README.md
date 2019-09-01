@@ -19,7 +19,8 @@
   - 共有可能にして、以下にURLを貼り付ける
     - https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing
 - 発表準備
-  - YouTubeでライブストリーミングの準備
+  - TwitCastでライブストリーミングの準備
+    - https://docs.google.com/document/d/1KA8AbOhcG2-eG0nhPJR02losYx-YCMQSuum2xWQfLwM/
 - 夏休み課題の発表
 - DATフェスタ企画会議(1)
 
