@@ -8,6 +8,18 @@
 
 # 14週目(9/6)
 ## 予定
+- 発表順抽選
+- 評価シートを作成
+  - Googleドライブを開いて、ログイン
+  - 新規をクリックして、Googleスプレッドシートを選択して、新規にスプレッドシートをして、タイトルを**0906プレゼン評価**にする
+  - [評価シートひな形](https://docs.google.com/spreadsheets/d/1maaHJSCrIqVMrcoy8kyYZ7cxIF9xpQjRTaYDVGS64rs/edit?usp=sharing)を開く
+  - [Ctrl]+[A]キーですべて選択して、[Ctrl]+[C]キーでコピー
+  - 先ほど作成した0906プレゼン評価に切り替えて、[Ctrl]+[V]キーで貼り付け
+  - 列幅を調整
+  - 共有可能にして、以下にURLを貼り付ける
+    - https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing
+- 発表準備
+  - YouTubeでライブストリーミングの準備
 - 夏休み課題の発表
 - DATフェスタ企画会議(1)
 
