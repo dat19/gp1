@@ -20,7 +20,9 @@
     - https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing
 - 発表準備
   - TwitCastingでライブストリーミングの準備
-    - Explorerを開いて、以下をバスにコピペして開いてください
+    - 水曜日にインストールしたTwitCastingのデスクトップアプリをスタートメニュー > twitで検索して起動
+      - 未インストールの場合、[ここ](http://twitcasting.tv/tdl_download.php)を開いて、ダウンロードして実行 > 規約を承諾してインストールする
+    - Explorerを開いて、以下をバスにコピペして開いて、各項目を設定してください
       - Z:\2019年\ゲーム学科\Teacher\tanaka\twitcasting.txt
     - [手順](https://docs.google.com/document/d/1KA8AbOhcG2-eG0nhPJR02losYx-YCMQSuum2xWQfLwM)
 - 夏休み課題の発表
