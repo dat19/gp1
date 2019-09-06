@@ -20,7 +20,8 @@
     - https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing
 - 発表準備
   - TwitCastingでライブストリーミングの準備
-    - [設定](file:///Z:/2019%E5%B9%B4/%E3%82%B2%E3%83%BC%E3%83%A0%E5%AD%A6%E7%A7%91/Teacher/tanaka/twitcasting.txt)
+    - Explorerを開いて、以下をバスにコピペして開いてください
+      - Z:\2019年\ゲーム学科\Teacher\tanaka\twitcasting.txt
     - [手順](https://docs.google.com/document/d/1KA8AbOhcG2-eG0nhPJR02losYx-YCMQSuum2xWQfLwM)
 - 夏休み課題の発表
 - DATフェスタ企画会議(1)
