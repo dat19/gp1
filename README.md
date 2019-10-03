@@ -21,6 +21,7 @@
 - 管理者の入力を要求されたら教員を呼んで、パスワードを入力してインストールを完了させる
 - 参考URL https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/manual-join
 - 一度に5人までなので、作業順番に合わせて共有し、作業が終わったら共有を終えること
+- VSが使えなったら、 https://codeshare.io/ を利用
 
 ---
 
