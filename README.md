@@ -7,6 +7,8 @@
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
 # 後期1週目(10/4)
+- [講義メモ](https://docs.google.com/document/d/1sHsAW1idQAj1isUpyB1c_IKq0NCmNcq75NrK2a1sYEI/)
+
 ## 予定
 - プログラミングトレーニング： [はんぐらびぃの改良](https://github.com/dat19/gp1/wiki/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B)
 - DATフェスタ作品開発: もくもく会方式
