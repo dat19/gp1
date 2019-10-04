@@ -14,14 +14,10 @@
   - ツイキャスで成果報告
 
 ## Visual Studio LiveShareのインストール
-- VisualStudio2019を起動
-- *拡張機能*メニューから*拡張機能の管理*を選択
-- 右上の検索ボックスに`live`と入力して[Enter]キーを押す
-- *Live Share*が表示されたらインストールする
-- 管理者の入力を要求されたら教員を呼んで、パスワードを入力してインストールを完了させる
-- 参考URL https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/manual-join
+- [コード共有の準備](https://docs.google.com/document/d/1c3dBetv3anGAJldW0cCL02Yp3dt-gqhRxbf526TJasA/)
+  - 参考URL https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/manual-join
 - 一度に5人までなので、作業順番に合わせて共有し、作業が終わったら共有を終えること
-- VSが使えなったら、 https://codeshare.io/ を利用
+  - VSが使えなったら、 https://codeshare.io/ を利用
 
 ---
 
