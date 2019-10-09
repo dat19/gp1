@@ -6,6 +6,9 @@
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 
+# DATフェスタ作業進捗メモ
+- [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
+
 # 後期2回目(10/11)
 ## 予定
 - 水曜日の続き
