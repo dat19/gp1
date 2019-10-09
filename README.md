@@ -11,6 +11,7 @@
 - 水曜日の続き
 - 順番は平田君から
 - [講義メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
+  - プロジェクトは、 `C:\Users\Public\Documents\tanaka\UnityProjects\hungravy-dat19-master`
 
 # 後期1回目(10/4)
 - [講義メモ](https://docs.google.com/document/d/1sHsAW1idQAj1isUpyB1c_IKq0NCmNcq75NrK2a1sYEI/)
