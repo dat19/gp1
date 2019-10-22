@@ -9,8 +9,23 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
-# 後期3回目(10/18)
+# 後期4回目(10/25)
 ## 予定
+- ぐらびぃの改造
+  - アプリの終了。ブラックホールのアニメーションイベント作成
+- [講義メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
+- VisualStudio Share Linkでコード開発
+  - X:\2019年\ゲーム学科\Teacher\tanaka\ をエクスプローラーで開く
+    - 前回のhungravy-dat1910フォルダーは削除してよい
+    - `hungravy-dat19-1016.zip`をコピーして、自分のPCのドキュメント > 自分のフォルダーに貼り付ける
+    - 貼り付けた`hungravy-dat19-1016.zip`を右クリックして、*7-Zip* > *ここに展開*を選択
+    - Unityで展開したフォルダーを開く
+  - [ここを右クリック](https://docs.google.com/document/d/1c3dBetv3anGAJldW0cCL02Yp3dt-gqhRxbf526TJasA/)して、新しいタブで開く
+  - *使い方* に従って、共有をする
+
+
+# 後期3回目(10/18)
+## 内容
 - 水曜日の続き
   - ぐらびぃが画面外に押し出されないようにする
 - [講義メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
