@@ -11,8 +11,8 @@
 
 # 後期4回目(10/25)
 ## 予定
-- 講義：アニメーションイベント
-- ぐらびぃの改造
+- 講義：アニメーションイベント(状況次第で延期)
+- ぐらびぃの改造(状況次第で延期)
   - アプリの終了。ブラックホールのアニメーションイベント作成
 - [講義メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
 - VisualStudio Share Linkでコード開発
