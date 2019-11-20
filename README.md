@@ -5,6 +5,7 @@
 
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
+- [@shun-shun123. Csharp Coding Guidlines Unity Community 和訳](https://qiita.com/shun-shun123/items/212893b60b7f14c69351)
 
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
