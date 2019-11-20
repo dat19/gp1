@@ -6,12 +6,17 @@
 # 参考URL
 - [日本語から変数や関数名の候補を示してくれるサービス](https://codic.jp/)
 - [@shun-shun123. Csharp Coding Guidlines Unity Community 和訳](https://qiita.com/shun-shun123/items/212893b60b7f14c69351)
+- [Microsoft. 識別子名、名前付け規則](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/inside-a-program/identifier-names)
+- [Microsoft. C#のコーディング規約](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
 # 後期6回目(11/20)
 ## 予定
+- Greeningのプロジェクトを各自、ダウンロードして、セットアップする
+- 命名規約について
+  - [@shun-shun123. Csharp Coding Guidlines Unity Community 和訳](https://qiita.com/shun-shun123/items/212893b60b7f14c69351)
 - モデルのマテリアルとテクスチャーの設定
   - Maya2018を起動
   - ファイルメニューから新規シーンを選択して、新規シーンにする
