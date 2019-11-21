@@ -14,6 +14,8 @@
 
 # 後期6回目(11/20)
 ## 予定
+- GitHubでの作業イメージ
+  - https://sketchboard.me/LBSAHzZ8ynEE
 - Greeningのプロジェクトを各自、ダウンロードして、セットアップする
 - 命名規約について
   - [@shun-shun123. Csharp Coding Guidlines Unity Community 和訳](https://qiita.com/shun-shun123/items/212893b60b7f14c69351)
