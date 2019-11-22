@@ -12,7 +12,7 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
-# 後期6回目(11/20)
+# 後期6回目(11/22)
 ## 予定
 - GitHubでの作業イメージ
   - https://sketchboard.me/LBSAHzZ8ynEE
