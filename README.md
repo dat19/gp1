@@ -19,6 +19,10 @@
 - Greeningのプロジェクトを各自、ダウンロードして、セットアップする
 - 命名規約について
   - [@shun-shun123. Csharp Coding Guidlines Unity Community 和訳](https://qiita.com/shun-shun123/items/212893b60b7f14c69351)
+  - [今回のプロジェクトでの命名規約](https://docs.google.com/document/d/10DWSrp2QcdawOtBvM67lr8Sjv1disyUshkcp0mc_B5U/edit)
+- 作業の概要を確認する
+  - [GreeningEx2019](https://trello.com/b/GPOLuD8w/greening)
+  - [HungraviyEx2019](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 - モデルのマテリアルとテクスチャーの設定
   - Maya2018を起動
   - ファイルメニューから新規シーンを選択して、新規シーンにする
