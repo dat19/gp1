@@ -13,6 +13,9 @@
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
 # 後期6回目(11/22)
+## 作業メモ
+- [作業メモ](https://docs.google.com/document/d/1cOY96TS3fVYC0MXA7Bs05WDlig_9s_6l8OJy5jT_MQw/)
+
 ## 予定
 - GitHubでの作業イメージ
   - https://sketchboard.me/LBSAHzZ8ynEE
