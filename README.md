@@ -27,7 +27,7 @@
   - [GreeningEx2019](https://trello.com/b/GPOLuD8w/greening)
   - [HungraviyEx2019](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 - モデルのマテリアルとテクスチャーの設定
-  - Maya2018を起動
+  - Autodesk Maya2018を起動
   - ファイルメニューから新規シーンを選択して、新規シーンにする
   - 確認したいFBXファイルをMAYAのメインウィンドウにドラッグ&ドロップ
   - テクスチャーアイコンをクリックして、[F]キーを押す
