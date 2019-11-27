@@ -12,6 +12,28 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
+# Trello
+- [GreeningEx2019](https://trello.com/b/GPOLuD8w/greening)
+- [HungraviyEx2019](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
+
+# upstreamのリポジトリー
+- [GreeningEx2019](https://github.com/dat19/GreeningEx2019)
+- [HungraviyEx2019](https://github.com/dat19/HungraviyEx2019)
+
+
+# 後期7回目(11/29)
+## 予定
+- ステージエディターの確認
+- プレイヤーの作成
+  - 設定の確認
+  - 設定から、動作状態とアニメ状態を定義
+  - アニメーターの作成
+  - 棒立ち、左右移動の実装
+- 時間があれば
+  - ポストプロセッシング
+  - ユニティちゃんシェーダー
+- 担当割り振り
+
 # 後期6回目(11/22)
 ## 作業メモ
 - [作業メモ](https://docs.google.com/document/d/1cOY96TS3fVYC0MXA7Bs05WDlig_9s_6l8OJy5jT_MQw/)
