@@ -12,16 +12,21 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
-# Trello
-- [GreeningEx2019](https://trello.com/b/GPOLuD8w/greening)
-- [HungraviyEx2019](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
+# GreeningEx2019
+- [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
+- [GreeningEx2019 Trello](https://trello.com/b/GPOLuD8w/greening)
 
 # upstreamのリポジトリー
-- [GreeningEx2019](https://github.com/dat19/GreeningEx2019)
-- [HungraviyEx2019](https://github.com/dat19/HungraviyEx2019)
+- [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
+- [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
 
 # 後期7回目(11/29)
+## 準備手順
+- GitHub Desktopを起動して、Fetchボタンを押して、Pullに表示が変わったらPullボタンを押す
+- RepositoryメニューからShow in Explorerを選んで、フォルダーが開いたら`CopyPrivateResources.bat`をダブルクリックしてデータを更新する
+- Unity Hubを起動して、GreeningEx2019を選択して読み込む
+
 ## 予定
 - ステージエディターの確認
 - プレイヤーの作成
