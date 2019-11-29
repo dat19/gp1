@@ -16,7 +16,7 @@
 - [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
 - [GreeningEx2019 Trello](https://trello.com/b/GPOLuD8w/greening)
 
-# upstreamのリポジトリー
+# HungraviyEx2019
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
@@ -27,20 +27,13 @@
 - RepositoryメニューからShow in Explorerを選んで、フォルダーが開いたら`CopyPrivateResources.bat`をダブルクリックしてデータを更新する
 - Unity Hubを起動して、GreeningEx2019を選択して読み込む
 
-## 予定
-- ステージエディターの確認
+## 内容
+- ステージエディター作成
 - プレイヤーの作成
   - 設定の確認
   - 設定から、動作状態とアニメ状態を定義
   - アニメーションの取り出し
     - X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019
-  - アニメーターの作成
-  - 棒立ち、左右移動の実装
-- 時間があれば
-  - ポストプロセッシング
-  - ユニティちゃんシェーダー
-  - オブジェクトの大きさ合わせ
-- 担当割り振り
 
 # 後期6回目(11/22)
 ## 作業メモ
