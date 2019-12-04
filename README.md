@@ -23,6 +23,30 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+# 後期8回目(12/6)
+- upstreamのプロジェクトを手元のプロジェクトにマージして更新する
+  - [プロジェクトの更新手順](https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86)
+  - プロジェクトを開いたら、Scenesフォルダー内のTestStageをダブルクリックして開く
+- プレイヤーの作成
+  - アニメーターの作成
+  - アニメーションの分割
+    - ジャンプ： JumpStart, Jump, Fall, Landing
+    - たんぽぽ： DandelionStart, Dandelion, DandelionEnd
+    - 苗をもつ： NaeUp, Nae(苗の終了は、NaeUpの逆再生)
+    - 水やり：   WaterStart, Water, WaterEnd
+  - 棒立ち、左右移動の実装
+    - Inputを定義する
+    - CharacterControllerによるキャラクター制御
+- 作業の分担を決める
+- 担当割り振り
+  - ステラ
+    - 左右移動、水やり
+  - 花の橋
+  - たんぽぽ
+  - ツタ
+  - きのこ
+  - 丸いの
+  - 花のトランポリン
 
 # 後期7回目(11/29)
 ## 準備手順
