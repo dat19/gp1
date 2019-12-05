@@ -26,6 +26,7 @@
 # 後期8回目(12/6)
 ## 話題
 - [ITmedia. 「これさぁ、悪いんだけど、捨ててくれる？」――『ジャンプ』伝説の編集長が、数億円を費やした『ドラゴンボールのゲーム事業』を容赦なく“ボツ”にした真相](https://www.itmedia.co.jp/business/articles/1912/06/news020.html)
+- [Unity用の命名規則設定ファイル](https://gist.github.com/am1tanaka/0870ceaf722062882bec487c652abccb)
 
 ## 予定
 - upstreamのプロジェクトを手元のプロジェクトにマージして更新する
