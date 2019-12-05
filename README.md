@@ -24,6 +24,10 @@
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
 # 後期8回目(12/6)
+## 話題
+- [ITmedia. 「これさぁ、悪いんだけど、捨ててくれる？」――『ジャンプ』伝説の編集長が、数億円を費やした『ドラゴンボールのゲーム事業』を容赦なく“ボツ”にした真相](https://www.itmedia.co.jp/business/articles/1912/06/news020.html)
+
+## 予定
 - upstreamのプロジェクトを手元のプロジェクトにマージして更新する
   - [プロジェクトの更新手順](https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86)
   - プロジェクトを開いたら、Scenesフォルダー内のTestStageをダブルクリックして開く
