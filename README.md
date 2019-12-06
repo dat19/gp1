@@ -14,6 +14,7 @@
 
 # プロジェクト関連
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
+- [Unityの命名規則とエディター設定](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 
 ## GreeningEx2019
 - [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
