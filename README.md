@@ -24,6 +24,45 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+# 後期9回目(12/13)
+## 作業メモ
+- [作業メモ]()
+
+## 前回の振り返り
+- マージ作業の分担を決める
+  - [ステラのアニメーション分割](https://trello.com/c/3jiB3ybI/14-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%8B%E3%83%A1%E4%BD%9C%E6%88%90)
+    - ジャンプ： JumpStart, Jump, Fall, Landing
+    - たんぽぽ： DandelionStart, Dandelion, DandelionEnd
+    - 苗をもつ： NaeUp, Nae(苗の終了は、NaeUpの逆再生)
+    - 水やり：   WaterStart, Water, WaterEnd
+  - [ツタ](https://trello.com/c/P51MFaNl/40-%E3%83%84%E3%82%BF)
+  - [丸いの](https://trello.com/c/RJlTA9d1/46-%E4%B8%B8%E3%81%84%E3%81%AE)
+  - [花の橋](https://trello.com/c/zIMxL95K/31-%E8%8A%B1%E3%81%AE%E6%A9%8B)
+  - [きのこ](https://trello.com/c/fag4Rxu0/43-%E3%81%8D%E3%81%AE%E3%81%93)
+  - [たんぽぽ](https://trello.com/c/T8j6YzFR/24-%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD)
+
+## 予定
+- 作業してきたデータをコミット > Push > Create Pull Request
+- upstreamのプロジェクトを手元のプロジェクトにマージして更新する
+  - [プロジェクトの更新手順](https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86)
+  - プロジェクトを開いたら、Scenesフォルダー内のTestStageをダブルクリックして開く
+- [苗の発芽について解説]()
+  - ツタとキノコの実装を完了している。これをもとに他の発芽も実装する
+- ステージ作成
+  - すべての苗のサイズが決まったので、ステージ制作班を決めて、ステージの制作
+- 各自、作業
+  - ステージ
+  - たんぽぽ
+  - 花の橋
+  - 丸い岩
+  - マージ(田中)
+
+## 今後の作業
+- プレイヤーの作成
+  - Inputを定義する
+  - 水まき
+
+
 # 後期8回目(12/6)
 ## 話題
 - [ITmedia. 「これさぁ、悪いんだけど、捨ててくれる？」――『ジャンプ』伝説の編集長が、数億円を費やした『ドラゴンボールのゲーム事業』を容赦なく“ボツ”にした真相](https://www.itmedia.co.jp/business/articles/1912/06/news020.html)
@@ -32,10 +71,7 @@
 ## 作業メモ
 - [作業メモ](https://docs.google.com/document/d/1oQWzM7XYrib6Nv2muuN4C2s1AB7JUU0Sd4puM_nnx_0/)
 
-## 予定
-- upstreamのプロジェクトを手元のプロジェクトにマージして更新する
-  - [プロジェクトの更新手順](https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86)
-  - プロジェクトを開いたら、Scenesフォルダー内のTestStageをダブルクリックして開く
+## 内容
 - 仮の水を作成
   - Sphereを作成して、TagとLayerをWaterにする
   - マウスをクリックした場所に、水を生成する仮のスクリプトを作成
