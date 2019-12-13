@@ -24,10 +24,8 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
-# 後期9回目(12/13)
-## 作業メモ
-- [作業メモ]()
 
+# 後期9回目(12/13)
 ## 前回の振り返り
 - マージ作業の分担を決める
   - [ステラのアニメーション分割](https://trello.com/c/3jiB3ybI/14-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%8B%E3%83%A1%E4%BD%9C%E6%88%90)
