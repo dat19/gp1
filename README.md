@@ -51,6 +51,9 @@ GreeningEx2019のプロジェクトフォルダーのAssetsフォルダーの中
 
 以上3点を行い、5分程度で簡潔に発表できるようにWordやPowerpoint、Googleドキュメントなどにまとめる。1～2ページでよい。この課題で調査した環境を使った企画を考えて、水曜日の[ゲームデザイン実習の課題](https://github.com/dat19/design#%E6%AD%A3%E6%9C%88%E4%BC%91%E3%81%BF%E8%AA%B2%E9%A1%8C-%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%AE%9F%E7%BF%92)に取り組むこと。
 
+## 作業メモ
+- [作業メモ](https://docs.google.com/document/d/1g5KUtxN5oj4-F52mjDkNiWyFQ2FbW78hpj3jflo6zy8/)
+
 ## 予定
 - 正月休み課題について、マイナビやpaizaを確認
 - プログラム解説
