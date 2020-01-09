@@ -24,6 +24,68 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+# 後期11回目(1/10)
+## 話題
+- [Unity1週間ゲームジャムミートアップ](https://meetup.unity3d.jp/jp/events/1191)
+  - 2020/1/18 12:00〜2020/1/18 16:00
+
+## GreeningEx2019実行ファイル
+- X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019 を開く
+- GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
+
+### 効果音の再収集
+- [SEのリスト](https://trello.com/c/uXcrhIHf/63-se%E5%86%8D%E5%8F%8E%E9%9B%86)
+- 不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って書き込む
+- [スタッフクレジット表記の相談](https://docs.google.com/document/d/1PFBqRFqpQgoFrXS6HmB4NU7HENSnek2J_J0Pq97WNzE/edit?usp=sharing)
+
+## 残りの期間でやりたいこと
+- GreeningEx2019を完成させて、2年生が制作するCDに同梱する
+- 今後のテーマについての調査(正月課題)
+- ポートフォリオWebページの作成
+- 1年生の総復習
+- 卒業制作に向けた企画会議
+- 2時間ゲームジャム
+
+## 正月休み課題 発表
+### ゲームプログラミング
+以下について調べて、正月明けに発表する。
+
+- マイナビやpaizaの新卒採用の情報などに目を通して、どのようなプログラミング言語やフレームワークの募集が多いかを調べる
+- 自分が興味を持った企業2社、プログラミング言語、フレームワーク(あれば)を挙げる
+- 上記で挙げたプログラミング言語やフレームワークを勉強できるWebサイトを探して(参考： https://paiza.jp/works )、少し進めてみて、どのようなものかを簡単にまとめる
+
+以上3点を行い、5分程度で簡潔に発表できるようにWordやPowerpoint、Googleドキュメントなどにまとめる。1～2ページでよい。
+
+### ゲームデザイン実習
+前期に学んだゲームの企画の作成方法と、後期のこれまでに体験したこと、[ゲームプログラミングの課題](https://github.com/dat19/gp1/blob/master/README.md#%E6%AD%A3%E6%9C%88%E4%BC%91%E3%81%BF%E8%AA%B2%E9%A1%8C)の調査結果を元に、ゲームやサービスの企画提案書を作成する。正月明けに、一人持ち時間10分でプレゼンする。
+
+- これまで作成した企画でも、新規の企画でも構わない
+- Unity以外でもよいし、ゲーム以外のものでもよい
+- タイトル、サムネイル、画面のモックアップのスクリーンショット、作品のコアステートメント、対象としているプレイヤーや利用者、プラットフォーム、解像度、操作方法、ルール(ゲーム以外なら不要)、ゲームの導入のストーリー(あれば)、モックアップの作成に利用したアセットがあればアセットのURL
+- 以上を、Word、Powerpoint、Googleドキュメント、Googleスライド、なんでもよいので作成してくる
+- 動作する必要はない
+- [例](https://docs.google.com/presentation/d/1tVwSTsw2X3EIK4MDuRgiEHZn-Yux5Vbjy0RfMeZLKeo/)
+
+2つの課題を、 持ち時間最大15分までで発表。短くても構わない。
+
+
+## Greeningの目標
+- 1/8 システム完成予定。ステージの制作 > ほぼ完成。残りの作業やバグを洗い出す
+- 1/22 完成予定
+- 1/29 2年の卒業制作に向けた総まとめと準備
+- 2/5, 7で終了
+
+### 現状確認
+- [前回の様子](https://github.com/dat19/design#%E5%86%85%E5%AE%B9)
+- 音の確認。効果音はほぼ探し直し
+- [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
+  - [プロジェクトの更新](https://github.com/dat19/gp1#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%81%AE%E5%89%8D%E3%81%AB)
+
+## プロジェクトを丸ごと最新にする
+- [GitHubでフォークしたUnityプロジェクトを丸ごと最新にする](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
+- カメラの動きを作る
+  - [作業手順](https://docs.google.com/document/d/1mbH1m0BrXeAOxH5OZuKc71xanlliSJX7H6LnYx7fjtA/)
+
 # 後期10回目(12/20)
 ## プロジェクトの更新の前に
 GreeningEx2019のプロジェクトフォルダーのAssetsフォルダーの中にある`PrivateResources`フォルダーを、以下の手順でコピーしてバックアップする。
