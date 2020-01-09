@@ -78,13 +78,15 @@
 ### 現状確認
 - [前回の様子](https://github.com/dat19/design#%E5%86%85%E5%AE%B9)
 - 音の確認。効果音はほぼ探し直し
-- [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
-  - [プロジェクトの更新](https://github.com/dat19/gp1#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%81%AE%E5%89%8D%E3%81%AB)
 
-## プロジェクトを丸ごと最新にする
+## カメラのアルゴリズム
 - [GitHubでフォークしたUnityプロジェクトを丸ごと最新にする](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
 - カメラの動きを作る
   - [作業手順](https://docs.google.com/document/d/1mbH1m0BrXeAOxH5OZuKc71xanlliSJX7H6LnYx7fjtA/)
+
+## ステージ作成
+- [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
+
 
 # 後期10回目(12/20)
 ## プロジェクトの更新の前に
