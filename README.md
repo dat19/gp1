@@ -25,11 +25,6 @@
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
 # 後期12回目(1/17)
-### 効果音の再収集
-- [SEのリスト](https://trello.com/c/uXcrhIHf/63-se%E5%86%8D%E5%8F%8E%E9%9B%86)
-- 不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って書き込む
-- スタッフクレジットの確認
-
 ## 残りの期間でやりたいこと
 - GreeningEx2019を完成させて、2年生が制作するCDに同梱する
 - 今後のテーマについての調査(正月課題)
@@ -38,6 +33,7 @@
 - 卒業制作に向けた企画会議
 - 2時間ゲームジャム
 
+
 ## カメラのアルゴリズム
 - [GitHubでフォークしたUnityプロジェクトを丸ごと最新にする](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
 - カメラの動きを作る
@@ -45,6 +41,12 @@
 
 ## ステージ作成
 - [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
+
+## 効果音の再収集
+- [SEのリスト](https://trello.com/c/uXcrhIHf/63-se%E5%86%8D%E5%8F%8E%E9%9B%86)
+- 不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って書き込む
+- スタッフクレジットの確認
+
 
 
 
@@ -79,6 +81,9 @@
 - 上記で挙げたプログラミング言語やフレームワークを勉強できるWebサイトを探して(参考： https://paiza.jp/works )、少し進めてみて、どのようなものかを簡単にまとめる
 
 以上3点を行い、5分程度で簡潔に発表できるようにWordやPowerpoint、Googleドキュメントなどにまとめる。1～2ページでよい。
+
+- 提出先 `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\正月休み`
+
 
 ### ゲームデザイン実習
 前期に学んだゲームの企画の作成方法と、後期のこれまでに体験したこと、[ゲームプログラミングの課題](https://github.com/dat19/gp1/blob/master/README.md#%E6%AD%A3%E6%9C%88%E4%BC%91%E3%81%BF%E8%AA%B2%E9%A1%8C)の調査結果を元に、ゲームやサービスの企画提案書を作成する。正月明けに、一人持ち時間10分でプレゼンする。
