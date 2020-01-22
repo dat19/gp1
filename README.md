@@ -24,6 +24,20 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+# 後期13回目(1/24)
+## 残りの期間でやりたいこと
+- GreeningEx2019を完成させて、2年生が制作するCDに同梱する
+- 1年生の総復習
+- 卒業制作に向けた企画会議
+- 2時間ゲームジャム
+
+
+## 予定
+- [マップの外に落下しないための対策](https://docs.google.com/document/d/187jtFeja8TZ8352FRPVaRDWBpnTyt20eig48XDL_64w/)
+- 設計の話
+  - [SOLID原則](https://postd.cc/solid-principles-every-developer-should-know/)
+
+
 # 後期12回目(1/17)
 ## 残りの期間でやりたいこと
 - GreeningEx2019を完成させて、2年生が制作するCDに同梱する
