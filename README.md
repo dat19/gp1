@@ -36,6 +36,7 @@
 - [マップの外に落下しないための対策](https://docs.google.com/document/d/187jtFeja8TZ8352FRPVaRDWBpnTyt20eig48XDL_64w/)
 - 設計の話
   - [SOLID原則](https://postd.cc/solid-principles-every-developer-should-know/)
+- Greeningに効果音を入れる
 
 
 # 後期12回目(1/17)
