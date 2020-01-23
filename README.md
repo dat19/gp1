@@ -37,7 +37,9 @@
 - 設計の話
   - [SOLID原則](https://postd.cc/solid-principles-every-developer-should-know/)
 - Greeningに効果音を入れる
-
+  - [効果音リスト](https://github.com/dat19/GreeningEx2019/blob/master/Assets/Scripts/GameSystem/SoundController.cs)
+    - この並び通りに、SystemシーンのGameManagerオブジェクトのSe Listに設定する
+      - ![SeList](https://raw.githubusercontent.com/dat19/GreeningEx2019/master/Documents/Images/img_se.png)
 
 # 後期12回目(1/17)
 ## 残りの期間でやりたいこと
