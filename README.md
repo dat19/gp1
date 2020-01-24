@@ -40,6 +40,22 @@
   - [効果音リスト](https://github.com/dat19/GreeningEx2019/blob/master/Assets/Scripts/GameSystem/SoundController.cs)
     - この並び通りに、SystemシーンのGameManagerオブジェクトのSe Listに設定する
       - ![SeList](https://raw.githubusercontent.com/dat19/GreeningEx2019/master/Documents/Images/img_se.png)
+- テストプレイ
+    
+## はんぐらびぃとGreeningのExプロジェクトの成果物
+- GreeningEx2019
+  - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
+  - `GreeningEx2019exe`フォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
+  - GreeningEx2019の不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って報告できる
+- はんぐらびぃEx2019
+  - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\HungraviyEx2019` を開く
+  - `HungraviyEx2019Exe`フォルダーをデスクトップなどにコピーしてから、中のHungraviyEx2019.exeをダブルクリックして起動
+  - [Android版のはんぐらびぃについて](https://github.com/dat19/HungraviyEx2019/blob/master/Documents/JikkiTest.md)
+- [GreeningEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+- [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+
+
+
 
 # 後期12回目(1/17)
 ## 残りの期間でやりたいこと
