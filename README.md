@@ -41,15 +41,26 @@
     - この並び通りに、SystemシーンのGameManagerオブジェクトのSe Listに設定する
       - ![SeList](https://raw.githubusercontent.com/dat19/GreeningEx2019/master/Documents/Images/img_se.png)
 - テストプレイ
+  - 重点的に確認したいポイント
+    - フリーズや落ちることがないか
+    - 進行できないバグはないか
+    - 動きがおかしなところはないか
+    - その他、気づいたこと
+  - 報告のポイント
+    - まずは、発生したことをNew Issueのタイトルに書いて登録。その際、内容がしっかりと伝わるように、「いつ」「どこで」「どうしたら」「何が」「どうなった」という情報を可能な限り揃えて書くこと
+    - フリーズや落ちるバグの場合が起きたら、New Issueを登録した後に、再現させる操作手順を調べる。再発方法が判明したら、それを書き込み済みのIssuesのコメントに追記する
+    - ゲーム内容の改善案や思いついたことなどがあれば、それも書き込んで構わない
+
     
 ## はんぐらびぃとGreeningのExプロジェクトの成果物
 - GreeningEx2019
   - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
   - `GreeningEx2019exe`フォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
-  - GreeningEx2019の不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って報告できる
+  - GreeningEx2019の不具合は[こちら](https://github.com/dat19/GreeningEx2019/issues)にNew issueを作って報告する
 - はんぐらびぃEx2019
   - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\HungraviyEx2019` を開く
   - `HungraviyEx2019Exe`フォルダーをデスクトップなどにコピーしてから、中のHungraviyEx2019.exeをダブルクリックして起動
+  - HungraviyEx2019の不具合は[こちら](https://github.com/dat19/HungraviyEx2019/issues)にNew issueを作って報告できる
   - [Android版のはんぐらびぃについて](https://github.com/dat19/HungraviyEx2019/blob/master/Documents/JikkiTest.md)
 - [GreeningEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
 - [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
