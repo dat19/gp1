@@ -31,6 +31,8 @@
 - 卒業制作に向けた企画会議
 - 2時間ゲームジャム
 
+## 更新手順
+- https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86
 
 ## 予定
 - [マップの外に落下しないための対策](https://docs.google.com/document/d/187jtFeja8TZ8352FRPVaRDWBpnTyt20eig48XDL_64w/)
