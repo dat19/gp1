@@ -24,6 +24,26 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+# 後期14回目(1/31)
+## 残りの期間でやりたいこと
+- GreeningEx2019を完成させて、2年生が制作するCDに同梱する
+- 1年生の総復習
+- 卒業制作に向けた企画会議
+- 2時間ゲームジャム
+
+## 内容
+- 設計の話
+  - [SOLID原則](https://postd.cc/solid-principles-every-developer-should-know/)
+- 復習、および、2時間ゲームジャムに向けたプロジェクトの準備
+  - Unityのプロジェクトを作成 / タイトル、ゲーム開始、ゲームオーバー、クリア、エンディングの遷移を作る
+    - https://docs.google.com/document/d/1Ibw6kmMfjuUFrPauVILCL-xIN7H96D8e3DGoxZM__Po/edit#
+  - スコアやパラメーターの管理と表示 / ランキング
+    - https://docs.google.com/document/d/1i08IrTyWiTv9B9zjFv2iUQBv-MXb8BYUzv_QVSukdPo/edit
+  - BGM、効果音再生
+    - http://am1tanaka.hatenablog.com/entry/2019/06/11/230541
+  - GitHubへのパブリッシュ
+    - https://github.com/dat19/gp1/blob/master/github-unity.md  
+
 # 後期13回目(1/24)
 ## 残りの期間でやりたいこと
 - GreeningEx2019を完成させて、2年生が制作するCDに同梱する
@@ -34,7 +54,7 @@
 ## 更新手順
 - https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86
 
-## 予定
+## 内容
 - [マップの外に落下しないための対策](https://docs.google.com/document/d/187jtFeja8TZ8352FRPVaRDWBpnTyt20eig48XDL_64w/)
 - 設計の話
   - [SOLID原則](https://postd.cc/solid-principles-every-developer-should-know/)
