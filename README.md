@@ -33,6 +33,7 @@
 
 ## 内容
 - 設計の話
+  - [ポリモーフィズムの復習 -ステラの制御-](https://docs.google.com/document/d/1g5KUtxN5oj4-F52mjDkNiWyFQ2FbW78hpj3jflo6zy8/edit#heading=h.ha16b4iy8ae0)
   - [SOLID原則](https://postd.cc/solid-principles-every-developer-should-know/)
 - 復習、および、2時間ゲームジャムに向けたプロジェクトの準備
   - Unityのプロジェクトを作成 / タイトル、ゲーム開始、ゲームオーバー、クリア、エンディングの遷移を作る
