@@ -24,6 +24,13 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+# 後期15回目(2/7)
+## 予定
+- 2時間ゲームジャム
+- 発表
+  - スクリーンショットとUnityのプロジェクトを、指定のフォルダーの中に自分の名前のフォルダーを作成して、その中にコピーして提出
+  
+
 # 後期14回目(1/31)
 ## 残りの期間でやりたいこと
 - GreeningEx2019を完成させて、2年生が制作するCDに同梱する
